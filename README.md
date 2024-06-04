@@ -9,6 +9,10 @@ This project aims to design an image registration algorithm using object-oriente
 1. **Registration Algorithm**:
    - Develop an image registration method using a procedural approach followed by an object-oriented approach.
    - Compare the two approaches to identify the advantages of OOP.
+     
+| Reference image | Distorted image | Registration image |
+|:------------------:|:------------------:|:------------------:|
+| ![Description de l'image 1](build/reference.png) | ![Description de l'image 2](build/floating.png) | ![Description de l'image 3](build/Idef.png) |
 
 2. **Main Classes**:
    - **Image**: Management and manipulation of images.
